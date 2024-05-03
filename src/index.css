@@ -15,9 +15,7 @@
 
 body{
     background-color: rgb(236, 228, 218);
-    
     align-items: center;
-
 }
 
 .calbox {
@@ -35,8 +33,6 @@ body{
   right: 50%;
   display: flex;
   justify-content: center;
- 
-  
  
 }
 
